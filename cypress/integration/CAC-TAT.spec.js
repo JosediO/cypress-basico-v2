@@ -1,4 +1,4 @@
-//// <reference types="Cypress" />
+/// <reference types="Cypress" />
 
 describe('Central de Atendimento ao Cliente TAT', function() {
     beforeEach(function(){
